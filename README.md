@@ -1,5 +1,5 @@
 # laravel_vue_import_csv
-- `git clone`
+- `git clone https://github.com/rokibuzzaman/laravel_vue_import_csv.git`
 - `cd laravel_vue_import_csv/`
 - `composer install`
 - `cp .env.example .env`
